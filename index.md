@@ -12,15 +12,26 @@
 ---
 
 ### notMNIST Image Classification
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
+<!-- [notMNIST Image Classification](/pdf/sample_presentation.pdf) -->
 <img src="images/notMNIST_image_classifier.gif?raw=true"/>
 
 [View on Github](https://github.com/dominicfanucchi/aai-501_group2)
 
 ---
 
-<!-- [Project 3 Title](http://example.com/) -->
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Clustering and Ensemble Models to predict destination country from AirBnB data
+<!-- [AirBnB Data Project](http://example.com/) -->
+<img src="images/predicting_airbnb.jpg?raw=true" width="480" height="320"/>
+
+[View on Github](https://github.com/dominicfanucchi/aai-510_group7)
+
+---
+
+### Vehicle Speed/Count Prediction from IoT Traffic Sensors
+<!-- [IoT Traffic Data Prediction](http://example.com/) -->
+<img src="images/predicting_iot_traffic.jpg?raw=true" width="480" height="320"/>
+
+[View on Github](https://github.com/dominicfanucchi/aai-530_group3)
 
 ---
 
@@ -34,8 +45,5 @@
 - [Project 5 Title](http://example.com/)
 
 ---
--->
-
-
-
 ---
+-->
