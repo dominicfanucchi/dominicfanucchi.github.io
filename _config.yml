@@ -6,6 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Computer Science Bachelor's from California State University. 
   <br><br>
+  <a href="pdf/DominicFanucchi_CV.pdf" target="_blank">Resume</a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/dominicfanucchi/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
