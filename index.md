@@ -1,11 +1,11 @@
 ## Portfolio
-
+### Selected Machine Learning/Artificial Intelligence Projects
 ---
 
-### Selected Machine Learning/Artificial Intelligence Projects 
-
-[Predicting Mushroom Toxicity](/sample_page)
+### Predicting Mushroom Toxicity
+<!--- [Predicting Mushroom Toxicity](/sample_page) -->
 <img src="images/predicting_mushroom_toxicity.jpg?raw=true"/>
+[View on Github](https://github.com/dominicfanucchi/aai-500_group2)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
