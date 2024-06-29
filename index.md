@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Selected Machine Learning/Artificial Intelligence Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Mushroom Toxicity](/sample_page)
+<img src="images/predicting_mushroom_toxicity.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
